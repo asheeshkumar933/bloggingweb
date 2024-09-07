@@ -29,7 +29,7 @@ This project is a full-featured blogging platform built with modern frontend too
 1. **Clone the repository:**
 
     ```bash
-   git clone https://github.com/HAMZOO0/Blog-Write.git
+   git clone https://github.com/asheeshkumar933/bloggingweb.git
 
     ```
 
