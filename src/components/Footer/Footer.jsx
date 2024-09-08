@@ -37,7 +37,7 @@ function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://personal-portfolio-phi-mocha.vercel.app"
+                    href="https://zomato-web-rho.vercel.app"
                     className="hover:underline"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -54,7 +54,7 @@ function Footer() {
               <ul className="text-gray-500 font-medium">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/hiteshchoudhary"
+                    href="https://github.com/asheeshkumar933"
                     className="hover:underline"
                     target="_blank"
                     rel="noreferrer"
